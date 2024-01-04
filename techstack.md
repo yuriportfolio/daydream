@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuriportfolio/daydream is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Python](https://www.python.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -29,11 +30,13 @@ yuriportfolio/daydream is built on the following main stack:
 - [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuriportfolio/daydream is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -61,14 +64,15 @@ yuriportfolio/daydream is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png' alt='FastAPI'/> [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/daydream](https://github.com/yuriportfolio/daydream)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|61<br/>Tools used|11/09/23 <br/>Report generated|
+|62<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -353,9 +357,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (30)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (31)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (26)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (27)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -369,6 +373,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.48.1|03/21/23|Rikimbili |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.48.1|03/21/23|Rikimbili |BSD-2-Clause|N/A|
 |[bcrypt](https://www.npmjs.com/bcrypt)|v5.1.0|12/07/22|Robert Boyd III |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v4.1.11|12/07/22|Robert Boyd III |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.6.0|03/21/23|Rikimbili |MIT|N/A|
 |[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.27.4|03/21/23|Rikimbili |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|03/21/23|Rikimbili |MIT|N/A|
@@ -383,7 +388,7 @@ Full tech stack [here](/techstack.md)
 |[react-native](https://www.npmjs.com/react-native)|v0.69.6|12/05/22|dark-r00t |MIT|N/A|
 |[react-native-vector-icons](https://www.npmjs.com/react-native-vector-icons)|v9.2.0|12/05/22|dark-r00t |MIT|N/A|
 |[react-native-web](https://www.npmjs.com/react-native-web)|v0.18.10|12/05/22|dark-r00t |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.31.3|01/13/23|Rikimbili |Apache-2.0|N/A|
+|[sharp](https://www.npmjs.com/sharp)|v0.31.3|01/13/23|Rikimbili |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.2.4|10/22/22|Robert Boyd III |MIT|N/A|
 
 
@@ -391,12 +396,12 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[boto3](https://pypi.org/boto3)|v1.24.82|10/15/22|Sleepingpirates |Apache-2.0|N/A|
-|[pydantic](https://pypi.org/pydantic)|v1.10.2|10/15/22|Sleepingpirates |MIT|N/A|
-|[wrapt](https://pypi.org/wrapt)|v1.14.1|10/15/22|Sleepingpirates |BSD-2-Clause|N/A|
-|[zipp](https://pypi.org/zipp)|v3.8.1|10/15/22|Sleepingpirates |MIT|N/A|
+|[boto3](https://pypi.org/project/boto3)|v1.24.82|10/15/22|Sleepingpirates |Apache-2.0|N/A|
+|[pydantic](https://pypi.org/project/pydantic)|v1.10.2|10/15/22|Sleepingpirates |MIT|N/A|
+|[wrapt](https://pypi.org/project/wrapt)|v1.14.1|10/15/22|Sleepingpirates |BSD-2-Clause|N/A|
+|[zipp](https://pypi.org/project/zipp)|v3.8.1|10/15/22|Sleepingpirates |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
