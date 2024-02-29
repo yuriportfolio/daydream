@@ -2,7 +2,7 @@ repo_name: yuriportfolio/daydream
 report_id: f4f8364a8f7ecfb6324f9d1313e0cf38
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:07:56+00:00'
+timestamp: '2024-02-29T18:21:51+00:00'
 requested_by: rikimbili
 provider: github
 branch: main
@@ -90,7 +90,7 @@ tools:
   last_updated_by: Sleepingpirates
   last_updated_on: 2022-10-15 22:39:37.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.2.4
   open_source: true
@@ -235,7 +235,7 @@ tools:
   last_updated_by: Rikimbili
   last_updated_on: 2022-10-06 03:22:12.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.2
   license: MIT
